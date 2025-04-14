@@ -5,6 +5,7 @@ This repository contains my solutions to the twenty-five A3 (hard) problems from
 **Important Disclaimer:**
 
 These solutions are provided for **educational purposes only**.  It is strongly advised that you do not simply copy and paste the code. You will not learn effectively, and you may not gain a true understanding of the problem-solving process.
+(เฉลยเหล่านี้จัดทำขึ้นเพื่อจุดประสงค์ทางการศึกษาเท่านั้น **ผู้จัดทำแนะนำอย่างยิ่งว่าอย่า Copy Paste Code โดยตรง เพราะอาจจะไม่ได้เรียนรู้อะไรเลย และอาจไม่เข้าใจกระบวนการแก้ปัญหาอย่างแท้จริง**)
 
 **Learning is Key:**
 
